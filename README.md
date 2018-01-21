@@ -15,7 +15,7 @@ where any Jack can either be used as an input or an output.
 The board can optionally include eight (8) programmable color RGB LEDs,
 using the WS2812B single wire format and 5V VDD level.
 
-[![thingSoC HexJacks](https://github.com/PatternAgents/HexJacks/blob/master/HexJacks/images/HexJacks_top.png?raw=true)AteGates](https://github.com/patternagents/HexJacks)
+[![thingSoC HexJacks](https://github.com/PatternAgents/HexJacks/blob/master/HexJacks/images/HexJacks_top.png?raw=true)HexJacks](https://github.com/patternagents/HexJacks)
 
 HexJacks can be used on a breadboard for prototyping new circuits,
 or it can mounted into a 1U Rack system using the following 1U x 16 HP front panel design.
