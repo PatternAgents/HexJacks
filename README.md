@@ -1,6 +1,6 @@
 # HexJacks { ERA : Sixteen (16) Jack I/O board for Eurorack }
 
-Format : ERA / Eurorack
+Format : ERA / Eurorack / Breadboard Friendly
 
 Height : 1U 
 
