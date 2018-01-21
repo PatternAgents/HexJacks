@@ -17,10 +17,10 @@ using the WS2812B single wire format and 5V VDD level.
 
 [![thingSoC HexJacks](https://github.com/PatternAgents/HexJacks/blob/master/HexJacks/images/HexJacks_top.png?raw=true)AteGates](https://github.com/patternagents/HexJacks)
 
-AteGates can be used on a breadboard for prototyping new circuits,
+HexJacks can be used on a breadboard for prototyping new circuits,
 or it can mounted into a 1U Rack system using the following 1U x 16 HP front panel design.
 
-[![HexJacks 1U Front Panel](https://github.com/PatternAgents/HexJacks/blob/master/AteGates/images/HexJacks_iso.png?raw=true)HexJacks 1U Front Panel](https://github.com/patternagents/HexJacks)
+[![HexJacks 1U Front Panel](https://github.com/PatternAgents/HexJacks/blob/master/HexJacks/images/HexJacks_iso.png?raw=true)HexJacks 1U Front Panel](https://github.com/patternagents/HexJacks)
 
 HexJacks can be used in combination with two (2) or more other ERA modules
 for mounting in a 3U ERA or Eurorack format card or even larger rack format
