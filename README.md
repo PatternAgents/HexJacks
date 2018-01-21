@@ -10,7 +10,7 @@ Depth : 1.0 cm
 
 Power : 3.3V/5.0V capable (5.0V Eurorack default)
 
-HexJacks (pronounced as "Eight Gates") is a simple sixteen (16) Jack I/O module,
+HexJacks is a simple sixteen (16) Jack I/O module,
 where any Jack can either be used as an input or an output.
 The board can optionally include eight (8) programmable color RGB LEDs,
 using the WS2812B single wire format and 5V VDD level.
