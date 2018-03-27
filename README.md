@@ -12,6 +12,8 @@ Power : (Passive - no power requirements)
 
 HexJacks is a simple sixteen (16) Jack I/O module,
 where any Jack can either be used as an input or an output.
+Optionally, J9 thru J12 can be populated with pushbuttons for inputs,
+and J13 thru J16 can be populated with 3mm LEDs for indicator outputs.
 
 [![thingSoC HexJacks](https://github.com/PatternAgents/HexJacks/blob/master/HexJacks/images/HexJacks_top.png?raw=true)HexJacks](https://github.com/patternagents/HexJacks)
 
